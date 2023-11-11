@@ -6,7 +6,7 @@
 
 ## Demo
 
-🔗 View the live demo [here](link_to_live_demo).
+🔗 View the live demo [here](https://coinbase-ui-clone.netlify.app/).
 
 ## Features
 
